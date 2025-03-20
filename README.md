@@ -21,16 +21,19 @@
   <a href="https://leetcode.com/u/akshattrivedi9/">
     <h3>Leetcode<h3>
   </a>
-  <br>
+      <br>
   <a href="https://codeforces.com/profile/akshattrivedi9">
     <h3>Codeforces</h3>
   </a>
+      <br>
   <a href="https://www.hackerrank.com/profile/akshat_trivedi">
     <h3>Hackerrank</h3>
   </a>
+      <br>
   <a href="https://atcoder.jp/users/Akshattrivedi9"> 
     <h3>Atcoder</h3>
   </a>
+      <br>
 </p>
 
 ## 📝 License
