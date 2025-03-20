@@ -8,18 +8,9 @@ Feel free to connect with me on X : @TrivediAkshat
 My Coding Profiles
 ![image](https://github.com/user-attachments/assets/d9b6d530-aeac-460b-8d97-83b9b0d218ef)
 
-  <a href="https://leetcode.com/u/akshattrivedi9">
-    <h5>Leetcode<h5>
-  </a>
-  <a href="https://codeforces.com/profile/akshattrivedi9">
-    <h5>Codeforces</h5>
-  </a>
-  <a href="https://www.hackerrank.com/profile/akshat_trivedi">
-    <h5>Hackerrank</h5>
-  </a>
-  <a href="https://atcoder.jp/users/Akshattrivedi9"> 
-    <h5>Atcoder</h5>
-  </a>
-  <a href="https://www.codechef.com/users/akshattrivedi9">
-    <h5>Codechef</h5>
-  </a>
+  Leetcode   --> https://leetcode.com/u/akshattrivedi9
+  Codeforces --> https://codeforces.com/profile/akshattrivedi9
+  Hackerrank --> https://www.hackerrank.com/profile/akshat_trivedi
+  Atcoder    --> https://atcoder.jp/users/Akshattrivedi9
+  Codechef   --> https://www.codechef.com/users/akshattrivedi9
+
