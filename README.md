@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there, Welcome 👋</h1>
+<p>
+  <a href="https://github.com/TheForgotensoul/theforgotensoul/blob/master/LICENSE" target="_blank">
+<!--     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" /> -->
+  </a>
+  <a href="https://twitter.com/TrivediAkshat" target="_blank">
+<!--     <img alt="Twitter: Akshat" src="https://twitter.com/TrivediAkshat" /> -->
+  </a>
+</p>
 
-<!--
-**Akshattriv/akshattriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 [Homepage](https://github.com/Akshattriv/akshattriv)
 
-Here are some ideas to get you started:
+## Hello there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * I am Akshat Trivedi
+ *  💻   A perfectionist by nature,  Interests - AI and DevOps.
+ * ⚡    A Computer Science Graduate.
+ * 👨‍💻    Infosys - Systems Engineer.
+
+<p>
+  <a href="https://leetcode.com/u/akshattrivedi9/">
+<!--     <img alt="License: MIT" src="Https://img -->
+  </a>
+  <a href="https://codeforces.com/profile/akshattrivedi9">
+    
+  </a>
+  <a href="https://www.hackerrank.com/profile/akshat_trivedi">
+    
+  </a>
+  <a href="https://atcoder.jp/users/Akshattrivedi9"> 
+    
+  </a>
+</p>
+
+## 📝 License
+
+Copyright © 2020 [Theforgotensoul](https://github.com/Theforgotensoul).<br />
+This project is [MIT](https://github.com/TheForgotensoul/theforgotensoul/blob/master/LICENSE) licensed.
+
+---
