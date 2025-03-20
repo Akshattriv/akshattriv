@@ -8,11 +8,11 @@ Feel free to connect
 My 5 Coding Profiles
 ![image](https://github.com/user-attachments/assets/d9b6d530-aeac-460b-8d97-83b9b0d218ef)
 
-  <div style="display:flex; justify-content:space-between;">
-    <a href="https://leetcode.com/u/akshattrivedi9"> Leetcode </a> ||
-    <a href="https://codeforces.com/profile/akshattrivedi9"> Codeforces </a> ||
-    <a href="https://www.hackerrank.com/profile/akshat_trivedi"> Hackerrank </a> ||
-    <a href="https://www.codechef.com/users/akshattrivedi9"> Codechef </a> 
+  <div>&#9;&#9;
+    <a href="https://leetcode.com/u/akshattrivedi9">&#9;&#9;&#9;&#9;Leetcode&#9;&#9;&#9;&#9;</a> &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;
+    <a href="https://codeforces.com/profile/akshattrivedi9">&#9;&#9;&#9;&#9;Codeforces&#9;&#9;&#9;&#9;</a> &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;
+    <a href="https://www.hackerrank.com/profile/akshat_trivedi">&#9;&#9;&#9;&#9;Hackerrank&#9;&#9;&#9;&#9;</a> &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;
+    <a href="https://www.codechef.com/users/akshattrivedi9">&#9;&#9;&#9;&#9;Codechef&#9;&#9;&#9;&#9;</a>
   </div>
   ---
 
