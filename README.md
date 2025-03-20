@@ -8,7 +8,7 @@ Feel free to connect
 My 5 Coding Profiles
 ![image](https://github.com/user-attachments/assets/d9b6d530-aeac-460b-8d97-83b9b0d218ef)
 
-  <div css="display:flex; justify-content:space-between;">
+  <div style="display:flex; justify-content:space-between;">
     <a href="https://leetcode.com/u/akshattrivedi9"> Leetcode </a> ||
     <a href="https://codeforces.com/profile/akshattrivedi9"> Codeforces </a> ||
     <a href="https://www.hackerrank.com/profile/akshat_trivedi"> Hackerrank </a> ||
