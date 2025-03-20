@@ -8,14 +8,13 @@
   </a>
 </p>
 
-### 🏠 [Homepage](https://github.com/Akshattriv/akshattriv)
+🏠 [Homepage](https://github.com/Akshattriv/akshattriv)
 
-## Hello there 👋
+Hello I am Akshat Trivedi ! 
+Feel free to connect with me on X
 
- * I am Akshat Trivedi
- *  💻   A perfectionist by nature,  Interests - AI and DevOps.
- * ⚡    A Computer Science Graduate.
- * 👨‍💻    Infosys - Systems Engineer.
+ *    Love Devices, Gadgets,  Interests reside in AI and DevOps.
+ *    A Computer Science Graduate. Working as a Systems Engineer at Infosys.
 
 <p>
   <a href="https://leetcode.com/u/akshattrivedi9/">
