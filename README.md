@@ -11,9 +11,13 @@ Instagram : @akshat_._trivedi.
 My Coding Profiles
 ![image](https://github.com/user-attachments/assets/d9b6d530-aeac-460b-8d97-83b9b0d218ef)
 
-  Leetcode   --> https://leetcode.com/u/akshattrivedi9
-  Codeforces --> https://codeforces.com/profile/akshattrivedi9
-  Hackerrank --> https://www.hackerrank.com/profile/akshat_trivedi
-  Atcoder    --> https://atcoder.jp/users/Akshattrivedi9
+  Leetcode   --> https://leetcode.com/u/akshattrivedi9 
+  ---
+  Codeforces --> https://codeforces.com/profile/akshattrivedi9 
+  ---
+  Hackerrank --> https://www.hackerrank.com/profile/akshat_trivedi 
+  ---
+  Atcoder    --> https://atcoder.jp/users/Akshattrivedi9 
+  ---
   Codechef   --> https://www.codechef.com/users/akshattrivedi9
 
