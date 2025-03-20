@@ -4,7 +4,7 @@ Feel free to connect with me on X : @TrivediAkshat
  *    Love Devices, Gadgets,  Interests reside in AI and DevOps.
  *    A Computer Science Graduate. Working as a Systems Engineer at Infosys.
 
-<p>
+<p css="display:flex">
   <a href="https://leetcode.com/u/akshattrivedi9/">
     <h5>Leetcode<h5>
   </a>
@@ -18,6 +18,7 @@ Feel free to connect with me on X : @TrivediAkshat
     <h5>Atcoder</h5>
   </a>
 </p>
+
 
 ## 📝 License
 
