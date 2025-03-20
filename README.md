@@ -19,16 +19,16 @@
 
 <p>
   <a href="https://leetcode.com/u/akshattrivedi9/">
-<!--     <img alt="License: MIT" src="Https://img -->
+Leetcode
   </a>
   <a href="https://codeforces.com/profile/akshattrivedi9">
-    
+    Codeforces
   </a>
   <a href="https://www.hackerrank.com/profile/akshat_trivedi">
-    
+    Hackerrank
   </a>
   <a href="https://atcoder.jp/users/Akshattrivedi9"> 
-    
+    Atcoder
   </a>
 </p>
 
