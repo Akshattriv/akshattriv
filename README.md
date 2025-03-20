@@ -8,15 +8,12 @@ Feel free to connect with me on X : @TrivediAkshat
   <a href="https://leetcode.com/u/akshattrivedi9/">
     <h5>Leetcode<h5>
   </a>
-      |
   <a href="https://codeforces.com/profile/akshattrivedi9">
     <h5>Codeforces</h5>
   </a>
-      |
   <a href="https://www.hackerrank.com/profile/akshat_trivedi">
     <h5>Hackerrank</h5>
   </a>
-      |
   <a href="https://atcoder.jp/users/Akshattrivedi9"> 
     <h5>Atcoder</h5>
   </a>
