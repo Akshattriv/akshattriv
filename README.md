@@ -19,16 +19,17 @@
 
 <p>
   <a href="https://leetcode.com/u/akshattrivedi9/">
-Leetcode
+    <h3>Leetcode<h3>
   </a>
+  <br>
   <a href="https://codeforces.com/profile/akshattrivedi9">
-    Codeforces
+    <h3>Codeforces</h3>
   </a>
   <a href="https://www.hackerrank.com/profile/akshat_trivedi">
-    Hackerrank
+    <h3>Hackerrank</h3>
   </a>
   <a href="https://atcoder.jp/users/Akshattrivedi9"> 
-    Atcoder
+    <h3>Atcoder</h3>
   </a>
 </p>
 
