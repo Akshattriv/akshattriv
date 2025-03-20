@@ -4,8 +4,11 @@ Feel free to connect with me on X : @TrivediAkshat
  *    Love Devices, Gadgets,  Interests reside in AI and DevOps.
  *    A Computer Science Graduate. Working as a Systems Engineer at Infosys.
 
-<p css="display:flex">
-  <a href="https://leetcode.com/u/akshattrivedi9/">
+---
+My Coding Profiles
+![image](https://github.com/user-attachments/assets/d9b6d530-aeac-460b-8d97-83b9b0d218ef)
+
+  <a href="https://leetcode.com/u/akshattrivedi9">
     <h5>Leetcode<h5>
   </a>
   <a href="https://codeforces.com/profile/akshattrivedi9">
@@ -17,12 +20,6 @@ Feel free to connect with me on X : @TrivediAkshat
   <a href="https://atcoder.jp/users/Akshattrivedi9"> 
     <h5>Atcoder</h5>
   </a>
-</p>
-
-
-## 📝 License
-
-Copyright © 2020 [Theforgotensoul](https://github.com/Theforgotensoul).<br />
-This project is [MIT](https://github.com/TheForgotensoul/theforgotensoul/blob/master/LICENSE) licensed.
-
----
+  <a href="https://www.codechef.com/users/akshattrivedi9">
+    <h5>Codechef</h5>
+  </a>
