@@ -1,5 +1,5 @@
 Hello I am Akshat Trivedi ! 
-Feel free to connect with me on X : @TrivediAkshat
+Feel free to connect with me on X : @TrivediAkshat, Instagram : @akshat_._trivedi.
 
  *    Love Devices, Gadgets,  Interests reside in AI and DevOps.
  *    A Computer Science Graduate. Working as a Systems Engineer at Infosys.
